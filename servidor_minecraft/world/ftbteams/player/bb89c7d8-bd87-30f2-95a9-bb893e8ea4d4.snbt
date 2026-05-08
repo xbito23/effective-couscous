@@ -1,0 +1,17 @@
+{
+	id: "bb89c7d8-bd87-30f2-95a9-bb893e8ea4d4"
+	type: "player"
+	player_name: "yellowpoppop"
+	ranks: {
+		bb89c7d8-bd87-30f2-95a9-bb893e8ea4d4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "yellowpoppop"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
